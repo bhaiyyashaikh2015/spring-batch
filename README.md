@@ -1,5 +1,5 @@
 
-=============
+==
 Spring Batch
 =============
 
@@ -15,7 +15,20 @@ Spring Batch
 
 6) Q & A
 
-==============
+==
+Spring Batch use case
+=============
+
+![image](https://github.com/user-attachments/assets/f52af2f8-6f83-411f-9688-7e99419fb2fe)
+
+==
+Spring Batch Architecture
+=============
+
+![image](https://github.com/user-attachments/assets/9b6a4cdf-e562-4088-91f5-5fd879677aa0)
+
+
+==
 Introduction
 ==============
 
@@ -41,7 +54,7 @@ Introduction
 
 => It provides reusable functions for processing large volumes of records
 
-===========================
+==
 Batch Processing Usecases
 ===========================
 
@@ -70,7 +83,7 @@ Spring Batch is particularly useful for tasks like reading large amounts of data
 
 8) Payment Reminders
 
-==========================		
+==		
 Spring Batch Architecture
 ==========================
 
@@ -107,7 +120,7 @@ JobLauncher: It is used to start the job exeuction.
 Spring Batch Documentation : https://spring.io/guides/gs/batch-processing
 
 
-==================
+==
 Spring Scheduling
 ==================
 
